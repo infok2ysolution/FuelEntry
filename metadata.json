@@ -1,0 +1,6 @@
+{
+  "name": "FuelRecord",
+  "description": "Employee fuel log & daily travel expense calculator with PSO fuel rate auto-fetch (+1.4 PKR factor), receipt logging, multi-destination route calculation, and vehicle mileage administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
